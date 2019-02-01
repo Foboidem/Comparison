@@ -4,7 +4,7 @@ h1{
 
 p{
  font-family: 'Quattrocento Sans', sans-serif;
-
+  text-align: justify;
 }
 
 header{
@@ -21,4 +21,6 @@ section{
 article{
   color: Lavender;
   background-color: SteelBlue;
+  text-align: justify;
+
 }
