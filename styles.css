@@ -14,9 +14,11 @@ header{
 }
 
 section{
+    color: Lavender;
     background-color: RoyalBlue;
 }
 
 article{
+  color: Lavender;
   background-color: SteelBlue;
 }
